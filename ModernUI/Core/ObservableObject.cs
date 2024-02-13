@@ -4,7 +4,7 @@ using System.Runtime.CompilerServices;
 
 namespace ModernUI.Core
 {
-    internal class ObcervableObject : INotifyPropertyChanged
+    internal class ObservableObject : INotifyPropertyChanged
     {
         public event PropertyChangedEventHandler PropertyChanged;
 
